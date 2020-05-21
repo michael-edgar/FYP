@@ -30,3 +30,5 @@ https://www.voicebot.net/Download/
 
 https://www.google.com/search?q=voicebot+scripted+macros&rlz=1C1CHBF_enIE849IE849&sxsrf=ALeKk01IihLvsQ9L0jz0YwrLFM_DgVpijw:1585428745103&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjWo6yphr7oAhX6aRUIHY-SBZ8Q_AUoAXoECAwQAw&biw=1920&bih=975
 
+http://developer.tobiipro.com/python/python-getting-started.html
+
